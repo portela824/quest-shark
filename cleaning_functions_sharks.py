@@ -1,3 +1,4 @@
+#José G Portela & Edwardo S. Rivera
 # Check if this works
 def set_pd_options(rows=1000,cols=30):
     import pandas as pd
